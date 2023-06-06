@@ -40,8 +40,9 @@ h1{
 input{
     display: block;
     padding: 10px;
+    padding-right: 155px;
     margin-top: 10px;
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: Arial;
     background-color: #E6E6FA;
 }
@@ -50,7 +51,8 @@ button{
     padding: 10px;
     font-size: 1.2em;
     color: white;
-    border-radius: 15%;
+    border-radius: 55%;
+    margin: 5%;
 }
 
 footer{
@@ -58,4 +60,5 @@ footer{
     color: white;
     text-align: center;
     font-size:0.5em; 
+    margin-top: 12%;
 }
